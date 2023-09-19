@@ -1,9 +1,8 @@
 #!/bin/bash
-###############################################################
 # Author             : Christo Deale
 # Date	             : 2023-08-08
 # networkdiscovery    : Utility to network discover active nodes
-###############################################################
+
 # Function to print text in red
 print_red() {
     echo -e "\e[31m$1\e[0m"
